@@ -38,11 +38,57 @@ webstack:
 
 content:
   categories:
-    - name: 常用推荐
+    - name: VPN节点
       sites:
         - name: 梯子代理
           description: 节点
           url: https://okzz.net/index.php#/register?code=raITdGfN
+    - name: 云服务器
+      sites:
+        - name: 梯子代理
+          description: 节点
+          url: https://okzz.net/index.php#/register?code=raITdGfN
+    - name: 技术文档
+      sites:
+        - name: Fluid
+          description: Fluid主题
+          url: https://hexo.fluid-dev.com/docs/start/
+        - name: Wechatpy
+          description: 微信开发文档
+          url: https://www.wechatpy.org/
+        - name: Mysql
+          description: mysql开发文档
+          url: https://dev.mysql.com/doc/refman/5.7/en/limit-optimization.html
+        - name: Mysql
+          description: mysql开发文档
+          url: https://dev.mysql.com/doc/refman/5.7/en/limit-optimization.html
+        - name: Clash
+          description: clash配置
+          url: https://docs.cfw.lbyczf.com/
+        - name: Sa-Token
+          description: sa-token开发文档
+          url: https://sa-token.cc/
+        - name: Sa-Token
+          description: sa-token开发文档
+          url: https://sa-token.cc/
+        - name: Spring File Storage
+          description: 文件存储
+          url: https://spring-file-storage.xuyanwu.cn/#/
+        - name: Forset
+          description: Http声明式客户端
+          url: https://github.com/dromara/forest
+        - name: OAuth
+          description: 第三方登录
+          url: https://www.justauth.cn/
+        # - name: Spring File Storage
+        #   description: 文件存储
+        #   url: https://spring-file-storage.xuyanwu.cn/#/
+    - name: 第三方依赖
+      sites:
+        - name: maven
+          description: maven仓库
+          url: https://mvnrepository.com/
+
     # - name: 界面灵感
     #   sites:
     #     - name: 咕噜素材
