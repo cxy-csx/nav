@@ -109,5 +109,10 @@ content:
         - name: Oracle账号
           description: orcal
           url: https://bugmenot.com/view/oracle.com
+    - name: 软件安装包
+      sites:
+        - name: Notepad--
+          description: Notepad
+          url: https://gitee.com/cxasm/notepad--
 
     
