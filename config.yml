@@ -45,9 +45,9 @@ content:
           url: https://okzz.net/index.php#/register?code=raITdGfN
     - name: 云服务器
       sites:
-        - name: 梯子代理
-          description: 节点
-          url: https://okzz.net/index.php#/register?code=raITdGfN
+        - name: 狗云
+          description: 服务器
+          url: https://www.dogyun.com/?ref=cxycsx
     - name: 技术文档
       sites:
         - name: Fluid
@@ -56,9 +56,6 @@ content:
         - name: Wechatpy
           description: 微信开发文档
           url: https://www.wechatpy.org/
-        - name: Mysql
-          description: mysql开发文档
-          url: https://dev.mysql.com/doc/refman/5.7/en/limit-optimization.html
         - name: Mysql
           description: mysql开发文档
           url: https://dev.mysql.com/doc/refman/5.7/en/limit-optimization.html
@@ -88,6 +85,16 @@ content:
         - name: maven
           description: maven仓库
           url: https://mvnrepository.com/
+    - name: AI智能
+      sites:
+        - name: codeformer
+          description: 照片修复
+          url: https://replicate.com/sczhou/codeformer
+     - name: 实用工具
+      sites:
+        - name: 百度网盘
+          description: 不限速下载
+          url: https://github.com/syhyz1990/baiduyun
 
     # - name: 界面灵感
     #   sites:
