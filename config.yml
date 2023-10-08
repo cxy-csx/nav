@@ -62,9 +62,9 @@ content:
         - name: Clash
           description: clash配置
           url: https://docs.cfw.lbyczf.com/
-        - name: Sa-Token
-          description: sa-token开发文档
-          url: https://sa-token.cc/
+        # - name: Sa-Token
+        #   description: sa-token开发文档
+        #   url: https://sa-token.cc/
         - name: Sa-Token
           description: sa-token开发文档
           url: https://sa-token.cc/
@@ -104,5 +104,10 @@ content:
         - name: crul转python
           description: crul
           url: https://curlconverter.com/
+    - name: 账号
+      sites:
+        - name: Oracle账号
+          description: orcal
+          url: https://bugmenot.com/view/oracle.com
 
     
