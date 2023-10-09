@@ -62,9 +62,9 @@ content:
         - name: Clash
           description: clash配置
           url: https://docs.cfw.lbyczf.com/
-        # - name: Sa-Token
-        #   description: sa-token开发文档
-        #   url: https://sa-token.cc/
+        - name: MDN
+          description: MDN技术文档
+          url: https://developer.mozilla.org/zh-CN/docs/Learn
         - name: Sa-Token
           description: sa-token开发文档
           url: https://sa-token.cc/
@@ -77,6 +77,10 @@ content:
         - name: OAuth
           description: 第三方登录
           url: https://www.justauth.cn/
+        - name: React
+          description: React官方文档
+          url: https://zh-hans.react.dev/
+        
     - name: 第三方依赖
       sites:
         - name: maven
@@ -104,7 +108,10 @@ content:
         - name: crul转python
           description: crul
           url: https://curlconverter.com/
-    - name: 账号
+        - name: iTab标签
+          description: iTab
+          url: https://itab.link/
+    - name: 账号密码
       sites:
         - name: Oracle账号
           description: orcal
