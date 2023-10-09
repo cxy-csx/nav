@@ -80,6 +80,12 @@ content:
         - name: React
           description: React官方文档
           url: https://zh-hans.react.dev/
+
+    - name: 文档教程
+      sites:
+        - name: 菜鸟教程
+          description: 编程
+          url: https://www.runoob.com/
         
     - name: 第三方依赖
       sites:
@@ -125,6 +131,9 @@ content:
         - name: Cron表达式
           description: cron
           url: https://cron.qqe2.com/
+        - name: 算法演示
+          description: 算法
+          url: https://visualgo.net/zh/sorting
     - name: 账号密码
       sites:
         - name: Oracle账号
