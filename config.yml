@@ -144,6 +144,9 @@ content:
         - name: Notepad--
           description: Notepad
           url: https://gitee.com/cxasm/notepad--
+        - name: Node
+          description: Node历史版本
+          url: https://nodejs.org/zh-cn/download/releases
 
     - name: 技术文章
       sites:
