@@ -111,6 +111,17 @@ content:
         - name: iTab标签
           description: iTab
           url: https://itab.link/
+    - name: 在线工具
+      sites:
+        - name: JSON格式化
+          description: json
+          url: https://www.json.cn/
+        - name: Base64编解码
+          description: base64
+          url: https://base64.us/
+        - name: 开源中国
+          description: 工具库
+          url: https://tool.oschina.net/
     - name: 账号密码
       sites:
         - name: Oracle账号
