@@ -145,4 +145,10 @@ content:
           description: Notepad
           url: https://gitee.com/cxasm/notepad--
 
+    - name: 技术文章
+      sites:
+        - name: playwright使用教程
+          description: playwright
+          url: https://www.cnblogs.com/eliwang/p/17097133.html
+
     
