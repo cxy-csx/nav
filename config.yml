@@ -5,7 +5,7 @@ title: 程序员陈师兄
 description: cxy-csx's navigation site
 
 # favicon of website
-favicon: "https://github.com/cxy-csx.png?size=40"
+favicon: "程序员陈师兄"
 
 # your website url
 url: https://cxy-csx.github.io/nav/
@@ -14,7 +14,7 @@ url: https://cxy-csx.github.io/nav/
 github: "https://github.com/cxy-csx"
 
 # footer message
-footer: © 2021-2021 @cxy-csx
+footer: © 2023 @cxy-csx
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
