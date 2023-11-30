@@ -83,6 +83,9 @@ content:
         - name: 小程序开发文档
           description: 微信小程序
           url: https://developers.weixin.qq.com/miniprogram/dev/framework/
+        - name: 小程序开发文档
+          description: 微信小程序
+          url: https://developers.weixin.qq.com/miniprogram/dev/framework/
 
     - name: 文档教程
       sites:
