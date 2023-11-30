@@ -83,9 +83,15 @@ content:
         - name: 小程序开发文档
           description: 微信小程序
           url: https://developers.weixin.qq.com/miniprogram/dev/framework/
-        - name: 小程序开发文档
-          description: 微信小程序
-          url: https://developers.weixin.qq.com/miniprogram/dev/framework/
+        - name: HuTool
+          description: HuTool
+          url: https://hutool.cn/
+          
+    - name: 问答社区
+       sites:
+        - name: Stackoverflow
+          description: Stackoverflow
+          url: https://stackoverflow.com
 
     - name: 文档教程
       sites:
