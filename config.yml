@@ -88,7 +88,7 @@ content:
           url: https://hutool.cn/
           
     - name: 问答社区
-       sites:
+      sites:
         - name: Stackoverflow
           description: Stackoverflow
           url: https://stackoverflow.com
