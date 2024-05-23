@@ -112,6 +112,15 @@ content:
         - name: AI对话
           description: ai
           url: https://bito.ai/
+          
+    - name: 脚本工具
+      sites:
+        - name: IDM激活脚本
+          description: IDM激活脚本
+          url: https://github.com/lstprjct/IDM-Activation-Script
+        - name: AI对话
+          description: ai
+          url: https://bito.ai/
     - name: 实用工具
       sites:
         - name: 百度网盘
