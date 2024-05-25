@@ -89,14 +89,12 @@ content:
         - name: Arthas
           description: Arthas
           url: https://arthas.aliyun.com/doc/install-detail.html  
-        - name: W3C
-          description: W3C
-          url: https://www.w3cschool.cn/
         - name: 盒子开放平台
           description: 盒子开放平台
           url: https://open.iboxpay.com/doc/
-        
-        
+        - name: React技术文档
+          description: React技术文档
+          url: https://zh-hans.react.dev/
         
           
     - name: 问答社区
@@ -110,6 +108,11 @@ content:
         - name: 菜鸟教程
           description: 编程
           url: https://www.runoob.com/
+          
+        - name: W3C
+          description: W3C
+          url: https://www.w3cschool.cn/
+        
         
     - name: 第三方依赖
       sites:
@@ -240,6 +243,10 @@ content:
         - name: charles注册码
           description: charles注册码
           url: https://www.charles.ren/
+          
+        - name: PDF解密
+          description: PDF解密
+          url: https://smallpdf.com/cn/unlock-pdf
         
         
         
@@ -319,6 +326,10 @@ content:
         - name: RSA加密
           description: RSA加密
           url: http://web.chacuo.net/netrsakeypair
+        - name: 技术论坛
+          description: 技术论坛
+          url: https://github.com/itwanger/paicoding
+        
         
         
         
