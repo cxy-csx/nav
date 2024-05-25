@@ -95,6 +95,16 @@ content:
         - name: React技术文档
           description: React技术文档
           url: https://zh-hans.react.dev/
+        - name: VUe技术文档
+          description: VUe技术文档
+          url: https://cn.vuejs.org/
+        - name: elementUI
+          description: elementUI
+          url: https://element.eleme.cn/ 
+        
+        
+        
+        
         
           
     - name: 问答社区
@@ -242,11 +252,14 @@ content:
           url: https://jsvmp.com/CN/index.html
         - name: charles注册码
           description: charles注册码
-          url: https://www.charles.ren/
-          
+          url: https://www.charles.ren/  
         - name: PDF解密
           description: PDF解密
           url: https://smallpdf.com/cn/unlock-pdf
+        - name: 草料二维码
+          description: 草料二维码
+          url: https://cli.im/
+        
         
         
         
@@ -288,7 +301,10 @@ content:
           url: https://www.aneasystone.com/
         - name: 明哥博客
           description: 明哥博客
-          url: https://iswbm.com/
+          url: https://iswbm.com/  
+        - name: 阮一峰
+          description: 阮一峰
+          url: https://es6.ruanyifeng.com/#docs/string
         
         
         
