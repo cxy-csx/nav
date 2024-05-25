@@ -1,4 +1,4 @@
-# 程序员陈师兄
+# nav
 
 [![Build](https://github.com/cxy-csx/nav/actions/workflows/generate.yml/badge.svg)](https://github.com/cxy-csx/nav/actions/workflows/generate.yml)
 
