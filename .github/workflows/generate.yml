@@ -33,7 +33,7 @@ jobs:
           git commit -m "Update site"
       # Push changes
       - name: Push changes
-        uses: actions/github-script
+        uses: ad-m/github-push-action
         with:
           branch: gh-pages
           github_token: ${{ secrets.GITHUB_TOKEN }}
