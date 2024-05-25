@@ -364,8 +364,9 @@ content:
         - name: VirtualXposed
           description: VirtualXposed
           url: https://github.com/android-hacker/VirtualXposed
-        
-        
+        - name: Clash For Window
+          description: Clash For Window
+          url: https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/CFW-V0.20.39_CN
         
         
         
