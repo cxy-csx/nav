@@ -85,7 +85,19 @@ content:
           url: https://developers.weixin.qq.com/miniprogram/dev/framework/
         - name: HuTool
           description: HuTool
-          url: https://hutool.cn/
+          url: https://hutool.cn/  
+        - name: Arthas
+          description: Arthas
+          url: https://arthas.aliyun.com/doc/install-detail.html  
+        - name: W3C
+          description: W3C
+          url: https://www.w3cschool.cn/
+        - name: 盒子开放平台
+          description: 盒子开放平台
+          url: https://open.iboxpay.com/doc/
+        
+        
+        
           
     - name: 问答社区
       sites:
@@ -158,8 +170,31 @@ content:
         - name: APK安装包下载
           description: APK安装包下载
           url: https://apkcombo.com/zh/
+        - name: Xshell
+          description: Xshell
+          url: https://www.xshell.com/zh/xshell/   
+        - name: 浏览器插件
+          description: 浏览器插件
+          url: https://chrome.zzzmh.cn/#/index
+        - name: mobaxterm
+          description: mobaxterm
+          url: https://mobaxterm.mobatek.net/
+        - name: 分区助手
+          description: 分区助手
+          url: https://www.disktool.cn/download.html
         
         
+        
+        
+        
+    
+    - name: 自媒体写作工具
+      sites:
+        - name: 墨滴
+          description: 墨滴
+          url: https://mdnice.com/
+    
+    
           
     - name: 在线工具
       sites:
@@ -202,6 +237,10 @@ content:
         - name: JSVMP
           description: JSVMP
           url: https://jsvmp.com/CN/index.html
+        - name: charles注册码
+          description: charles注册码
+          url: https://www.charles.ren/
+        
         
         
         
@@ -229,11 +268,24 @@ content:
           url: https://www.microsoft.com/zh-cn/software-download/windows10 
        
 
-    - name: 技术文章
+    - name: 技术博客
       sites:
         - name: playwright使用教程
           description: playwright
           url: https://www.cnblogs.com/eliwang/p/17097133.html
+        - name: hexo
+          description: hexo
+          url: https://hexo.fluid-dev.com/posts/hexo-netlify/ 
+        - name: Python+Selenium
+          description: Python+Selenium
+          url: https://www.aneasystone.com/
+        - name: 明哥博客
+          description: 明哥博客
+          url: https://iswbm.com/
+        
+        
+        
+        
 
     - name: Github开源项目
       sites:
@@ -252,9 +304,21 @@ content:
         - name: binLog日志分析
           description: binLog日志分析
           url: https://github.com/fulldb/my2sql
-        - name: binLog日志分析
-          description: binLog日志分析
-          url: https://github.com/fulldb/my2sql
+        - name: 自动化过检测chromedriver
+          description: 自动化过检测chromedriver
+          url: https://github.com/ultrafunkamsterdam/undetected-chromedriver
+        - name: bilibili接口文档
+          description: bilibili接口文档
+          url: https://github.com/7rikka/bilibili-api-docs
+        - name: 反编译工具jadx
+          description: 反编译工具jadx
+          url: https://hexo.fluid-dev.com/posts/hexo-netlify/
+        - name: RPC框架sekiro
+          description: RPC框架sekiro
+          url: https://hexo.fluid-dev.com/posts/hexo-netlify/
+        - name: RSA加密
+          description: RSA加密
+          url: http://web.chacuo.net/netrsakeypair
         
         
         
