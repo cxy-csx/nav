@@ -252,7 +252,9 @@ content:
         - name: binLog日志分析
           description: binLog日志分析
           url: https://github.com/fulldb/my2sql
-        
+        - name: binLog日志分析
+          description: binLog日志分析
+          url: https://github.com/fulldb/my2sql
         
         
         
