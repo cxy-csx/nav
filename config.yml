@@ -145,7 +145,7 @@ content:
           url: https://itab.link/
         - name: IDM激活脚本
           description: IDM激活脚本
-          url: url: https://github.com/lstprjct/IDM-Activation-Script
+          url: https://github.com/lstprjct/IDM-Activation-Script
         - name: SwitchyOmega规则列表
           description: SwitchyOmega规则列表
           url: https://pagure.io/gfwlist/raw/master/f/gfwlist.txt 
