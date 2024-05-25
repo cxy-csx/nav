@@ -309,6 +309,11 @@ content:
           description: 阮一峰
           url: https://es6.ruanyifeng.com/#docs/string
         
+        - name: Charles模拟器证书配置
+          description: Charles模拟器证书配置
+          url: https://blog.csdn.net/qq_41631913/article/details/135748992
+        
+        
         
         
         
@@ -348,6 +353,14 @@ content:
         - name: 技术论坛
           description: 技术论坛
           url: https://github.com/itwanger/paicoding
+        - name: JustTrustMe
+          description: JustTrustMe
+          url: https://github.com/Fuzion24/JustTrustMe
+        - name: VirtualXposed
+          description: VirtualXposed
+          url: https://github.com/android-hacker/VirtualXposed
+        
+        
         
         
         
