@@ -1,5 +1,5 @@
 # title of website
-title: 公众号:玩转Code
+title: 企鹅:3041439327
 
 # description of website
 description: cxy-csx's navigation site
@@ -11,10 +11,10 @@ favicon: "程序员陈师兄"
 url: https://cxy-csx.github.io/nav/
 
 # github profile url
-github: "https://github.com/cxy-csx"
+# github: "https://github.com/cxy-csx"
 
 # footer message
-footer: © 2023 @csx ©公众号:玩转Code
+footer: © 2023~2024 @csx ©公众号:玩转Code 企鹅: 3041439327
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -111,16 +111,21 @@ content:
           url: https://replicate.com/sczhou/codeformer
         - name: AI对话
           description: ai
-          url: https://bito.ai/
+          url: https://bito.ai/  
+        - name: Kimi
+          description: Kimi
+          url: https://kimi.moonshot.cn
+        
+        
           
-    - name: 脚本工具
+    - name: 镜像网站
       sites:
-        - name: IDM激活脚本
-          description: IDM激活脚本
-          url: https://github.com/lstprjct/IDM-Activation-Script
-        - name: AI对话
-          description: ai
-          url: https://bito.ai/
+        - name: 阿里源镜像
+          description: 阿里源镜像
+          url: https://developer.aliyun.com/mirror/
+          
+          
+        
     - name: 实用工具
       sites:
         - name: 百度网盘
@@ -138,6 +143,24 @@ content:
         - name: iTab标签
           description: iTab
           url: https://itab.link/
+        - name: IDM激活脚本
+          description: IDM激活脚本
+          url: url: https://github.com/lstprjct/IDM-Activation-Script
+        - name: SwitchyOmega规则列表
+          description: SwitchyOmega规则列表
+          url: https://pagure.io/gfwlist/raw/master/f/gfwlist.txt 
+        - name: 内网穿透
+          description: 内网穿透
+          url: https://panel.chmlfrp.cn/tunnelm/manage
+        - name: Proxifier
+          description: 代理软件
+          url: https://www.proxifier.com/
+        - name: APK安装包下载
+          description: APK安装包下载
+          url: https://apkcombo.com/zh/
+        
+        
+          
     - name: 在线工具
       sites:
         - name: JSON格式化
@@ -158,6 +181,30 @@ content:
         - name: JS在线加解密
           description: js
           url: https://tool.lu/js/index.html
+        - name: TK布局助手
+          description: TK布局助手
+          url: https://www.pytk.net/
+        - name: 正则表达式
+          description: 正则表达式
+          url: https://regex-vis.com/
+        - name: 时间戳处理
+          description: 时间戳处理
+          url: https://tool.lu/timestamp/
+        - name: 时区转换
+          description: 时区转换
+          url: https://www.beijing-time.org/shiqu/
+        - name: JSON转实体类
+          description: JSON转实体类
+          url: https://www.json.cn/json2java/
+        - name: GitHub文件加速
+          description: GitHub文件加速
+          url: https://moeyy.cn/gh-proxy
+        - name: JSVMP
+          description: JSVMP
+          url: https://jsvmp.com/CN/index.html
+        
+        
+        
     - name: 账号密码
       sites:
         - name: Oracle账号
@@ -174,6 +221,13 @@ content:
         - name: Redis客户端
           description: Redis客户端
           url: https://github.com/qishibo/AnotherRedisDesktopManager/releases
+        - name: Ubuntu操作系统
+          description: Ubuntu操作系统
+          url: https://cn.ubuntu.com/
+        - name: Window操作系统
+          description: Window操作系统
+          url: https://www.microsoft.com/zh-cn/software-download/windows10 
+       
 
     - name: 技术文章
       sites:
@@ -186,4 +240,18 @@ content:
         - name: 测试平台
           description: 测试
           url: https://github.com/metersphere/metersphere
-    
+        - name: 内网穿透
+          description: 内网穿透
+          url: https://github.com/wucao/natx
+        - name: VMware
+          description: VMware
+          url: https://github.com/201853910/VMwareWorkstation?tab=readme-ov-file#vmwareworkstation-17
+        - name: WechatPC版本
+          description: WechatPC版本
+          url: https://github.com/tom-snow/wechat-windows-versions/releases
+        - name: binLog日志分析
+          description: binLog日志分析
+          url: https://github.com/fulldb/my2sql
+        
+        
+        
