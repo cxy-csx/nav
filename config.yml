@@ -195,6 +195,9 @@ content:
         - name: 分区助手
           description: 分区助手
           url: https://www.disktool.cn/download.html
+        - name: 代理插件
+          description: 代理插件
+          url: https://proxy-switchyomega.com/
         
         
         
