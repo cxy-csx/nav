@@ -216,9 +216,7 @@ content:
           url: https://smallpdf.com/cn/unlock-pdf
         - name: 草料二维码
           description: 草料二维码
-          url: https://cli.im/
-          
-          
+          url: https://cli.im/      
     - name: 软件安装包
       sites:
         - name: Notepad--
@@ -247,26 +245,20 @@ content:
           url: https://reqable.com/ 
         - name: Mitmproxy
           description: Mitmproxy
-          url: https://mitmproxy.org/
-        
-          
+          url: https://mitmproxy.org/      
     - name: 问答社区
       sites:
         - name: Stackoverflow
           description: Stackoverflow
           url: https://stackoverflow.com
-
     - name: 文档教程
       sites:
         - name: 菜鸟教程
           description: 编程
-          url: https://www.runoob.com/
-          
+          url: https://www.runoob.com/        
         - name: W3C
           description: W3C
-          url: https://www.w3cschool.cn/
-        
-        
+          url: https://www.w3cschool.cn/    
     - name: 第三方依赖
       sites:
         - name: maven
@@ -283,8 +275,6 @@ content:
         - name: Kimi
           description: Kimi
           url: https://kimi.moonshot.cn
-        
-        
           
     - name: 镜像网站
       sites:
@@ -303,9 +293,6 @@ content:
         - name: Oracle账号
           description: orcal
           url: https://bugmenot.com/view/oracle.com
-    
-       
-
     - name: 技术博客
       sites:
         - name: playwright使用教程
@@ -320,7 +307,6 @@ content:
         - name: 阮一峰
           description: 阮一峰
           url: https://es6.ruanyifeng.com/#docs/string
-        
         - name: Charles模拟器证书配置
           description: Charles模拟器证书配置
           url: https://blog.csdn.net/qq_41631913/article/details/135748992
