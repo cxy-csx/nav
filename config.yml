@@ -38,16 +38,19 @@ webstack:
 
 content:
   categories:
+    
     - name: VPN节点
       sites:
         - name: 梯子代理
           description: 节点
-          url: https://okzz.net/index.php#/register?code=raITdGfN
+          url: http://47.116.73.91:65533/index.php/#/register?code=raITdGfN
+
     - name: 云服务器
       sites:
         - name: 狗云
           description: 服务器
           url: https://www.dogyun.com/?ref=cxycsx
+          
     - name: 技术文档
       sites:
         - name: Fluid
@@ -101,56 +104,17 @@ content:
         - name: elementUI
           description: elementUI
           url: https://element.eleme.cn/ 
-        
-        
-        
-        
-        
-          
-    - name: 问答社区
-      sites:
-        - name: Stackoverflow
-          description: Stackoverflow
-          url: https://stackoverflow.com
-
-    - name: 文档教程
-      sites:
-        - name: 菜鸟教程
-          description: 编程
-          url: https://www.runoob.com/
-          
-        - name: W3C
-          description: W3C
-          url: https://www.w3cschool.cn/
-        
-        
-    - name: 第三方依赖
-      sites:
-        - name: maven
-          description: maven仓库
-          url: https://mvnrepository.com/
-    - name: AI智能
-      sites:
-        - name: Codeformer
-          description: 照片修复
-          url: https://replicate.com/sczhou/codeformer
-        - name: AI对话
-          description: ai
-          url: https://bito.ai/  
-        - name: Kimi
-          description: Kimi
-          url: https://kimi.moonshot.cn
-        
+        - name: Python参考文档
+          description: Python文档
+          url: https://docs.python.org/  
+        - name: NodeJS文档
+          description: NodeJS文档
+          url: https://nodejs.org/api/
+        - name: NumPy参考文档
+          description: NumPy参考文档
+          url: https://numpy.org/
         
           
-    - name: 镜像网站
-      sites:
-        - name: 阿里源镜像
-          description: 阿里源镜像
-          url: https://developer.aliyun.com/mirror/
-          
-          
-        
     - name: 实用工具
       sites:
         - name: 百度网盘
@@ -201,21 +165,7 @@ content:
         - name: 文件搜索
           description: 文件搜索
           url: https://www.voidtools.com/zh-cn/
-        
-        
-        
-        
-        
-        
-        
-    
-    - name: 自媒体写作工具
-      sites:
-        - name: 墨滴
-          description: 墨滴
-          url: https://mdnice.com/
-    
-    
+          
           
     - name: 在线工具
       sites:
@@ -267,16 +217,8 @@ content:
         - name: 草料二维码
           description: 草料二维码
           url: https://cli.im/
-        
-        
-        
-        
-        
-    - name: 账号密码
-      sites:
-        - name: Oracle账号
-          description: orcal
-          url: https://bugmenot.com/view/oracle.com
+          
+          
     - name: 软件安装包
       sites:
         - name: Notepad--
@@ -293,7 +235,75 @@ content:
           url: https://cn.ubuntu.com/
         - name: Window操作系统
           description: Window操作系统
-          url: https://www.microsoft.com/zh-cn/software-download/windows10 
+          url: https://www.microsoft.com/zh-cn/software-download/windows10   
+        - name: Fiddler
+          description: Fiddler
+          url: https://www.telerik.com/fiddler 
+        - name: Charles
+          description: Charles
+          url: https://www.charlesproxy.com/ 
+        - name: Reqable
+          description: Reqable
+          url: https://reqable.com/ 
+        - name: Mitmproxy
+          description: Mitmproxy
+          url: https://mitmproxy.org/
+        
+          
+    - name: 问答社区
+      sites:
+        - name: Stackoverflow
+          description: Stackoverflow
+          url: https://stackoverflow.com
+
+    - name: 文档教程
+      sites:
+        - name: 菜鸟教程
+          description: 编程
+          url: https://www.runoob.com/
+          
+        - name: W3C
+          description: W3C
+          url: https://www.w3cschool.cn/
+        
+        
+    - name: 第三方依赖
+      sites:
+        - name: maven
+          description: maven仓库
+          url: https://mvnrepository.com/
+    - name: AI智能
+      sites:
+        - name: Codeformer
+          description: 照片修复
+          url: https://replicate.com/sczhou/codeformer
+        - name: AI对话
+          description: ai
+          url: https://bito.ai/  
+        - name: Kimi
+          description: Kimi
+          url: https://kimi.moonshot.cn
+        
+        
+          
+    - name: 镜像网站
+      sites:
+        - name: 阿里源镜像
+          description: 阿里源镜像
+          url: https://developer.aliyun.com/mirror/
+
+    - name: 自媒体写作工具
+      sites:
+        - name: 墨滴
+          description: 墨滴
+          url: https://mdnice.com/
+    
+    - name: 账号密码
+      sites:
+        - name: Oracle账号
+          description: orcal
+          url: https://bugmenot.com/view/oracle.com
+    
        
 
     - name: 技术博客
@@ -314,10 +324,6 @@ content:
         - name: Charles模拟器证书配置
           description: Charles模拟器证书配置
           url: https://blog.csdn.net/qq_41631913/article/details/135748992
-        
-        
-        
-        
         
 
     - name: Github开源项目
