@@ -307,9 +307,6 @@ content:
         - name: Python+Selenium
           description: Python+Selenium
           url: https://www.aneasystone.com/
-        - name: 明哥博客
-          description: 明哥博客
-          url: https://iswbm.com/  
         - name: 阮一峰
           description: 阮一峰
           url: https://es6.ruanyifeng.com/#docs/string
